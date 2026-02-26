@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* x402-api - Unified DeFi data API (CoinGecko, DefiLlama, Hyperliquid, GoPlus, Blockchair) with x402 micropayments on Base. MCP server + ElizaOS plugin available. [Website](https://x402-api.fly.dev) [Github](https://github.com/fernsugi/x402-api-server)
 
 ---
 
